@@ -18,3 +18,7 @@ ul > li.section:hover {
 ul > li.active {
 	background-color: #FCC;
 }
+
+ul > li.info {
+	color: #666;
+}
